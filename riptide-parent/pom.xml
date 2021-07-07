@@ -17,7 +17,7 @@
 
     <properties>
         <fauxpas.version>0.9.0</fauxpas.version>
-        <jackson.version>2.12.3</jackson.version>
+        <jackson.version>2.12.4</jackson.version>
         <junit-jupiter.version>5.7.2</junit-jupiter.version>
         <logbook.version>2.11.0</logbook.version>
         <micrometer.version>1.7.1</micrometer.version>
